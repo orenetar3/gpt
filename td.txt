@@ -1,0 +1,22 @@
+Privacy Policy for TD GPT:
+
+Introduction:
+TD GPT is designed to create detailed image assets for an online game. This privacy policy explains how we handle user data.
+
+Data Collection: 
+We collect prompts and feedback provided by users to enhance the performance and relevance of TD GPT. No personal data is collected.
+
+Data Usage: 
+Collected data is used exclusively to improve the quality and accuracy of responses provided by TD GPT.
+
+Data Sharing: 
+We do not share user data with any third parties. Data is only used internally to enhance the functionality of TD GPT.
+
+Data Security: 
+We implement robust security measures to protect user data from unauthorized access, disclosure, alteration, or destruction.
+
+User Rights: 
+Users have the right to access, correct, or delete any data they have provided. For any privacy-related inquiries, users can contact us at me@hilaryparker.com.
+
+Contact Information: 
+For questions or concerns about our privacy practices, please contact us at me@hilaryparker.com
